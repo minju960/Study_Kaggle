@@ -6,5 +6,5 @@
 - **내용**
   - Use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
 - **결과물**
-![](/djangoPharmacy_capture.png)
+![](/titanic_capture.png)
 <br>
